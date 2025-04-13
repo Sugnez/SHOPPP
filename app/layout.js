@@ -1,4 +1,3 @@
-// app/layout.js
 export const metadata = {
   title: "Komat Boutique",
   description: "Vintage Streetwear aus den 90ern & 2000ern",
