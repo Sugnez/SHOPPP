@@ -1,3 +1,4 @@
+// app/page.js
 "use client";
 
 import React from "react";
@@ -9,19 +10,22 @@ const products = [
     id: 1,
     name: "Vintage Nike Trackpants",
     price: "€79.00",
-    image: "https://cdn.shopify.com/s/files/1/0680/4150/7113/files/nike1.webp?v=1711123456",
+    image:
+      "https://cdn.shopify.com/s/files/1/0680/4150/7113/files/nike1.webp?v=1711123456",
   },
   {
     id: 2,
     name: "Lacoste 90s Windbreaker",
     price: "€129.00",
-    image: "https://cdn.shopify.com/s/files/1/0680/4150/7113/files/lacoste1.webp?v=1711123456",
+    image:
+      "https://cdn.shopify.com/s/files/1/0680/4150/7113/files/lacoste1.webp?v=1711123456",
   },
   {
     id: 3,
     name: "Y2K Versace Shirt",
     price: "€99.00",
-    image: "https://cdn.shopify.com/s/files/1/0680/4150/7113/files/versace1.webp?v=1711123456",
+    image:
+      "https://cdn.shopify.com/s/files/1/0680/4150/7113/files/versace1.webp?v=1711123456",
   },
 ];
 
